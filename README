@@ -1,0 +1,5 @@
+cnet project
+
+libs:
+- qt4
+- qglviewer
